@@ -1,0 +1,13 @@
+scikit-learn==1.0
+numpy==1.19.5
+pandas==1.3.4
+scipy==1.7.1
+joblib==1.1.0 
+sklearn==
+tensorflow
+tqdm
+glob
+seabor
+tensorflow
+cv2
+Sequential
